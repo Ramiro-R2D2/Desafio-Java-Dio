@@ -1,6 +1,6 @@
 # Abstraction of an iPhone in Java and represented with UML
 
- In this challenge, I used my knowledge of object-oriented programming and Java syntax to complete the challenge proposed by DIO.
+ In this challenge, I used my knowledge of object-oriented programming and Java syntax to complete the challenge proposed by DIO. The code is in the src folder.
 
 ```mermaid
 classDiagram
